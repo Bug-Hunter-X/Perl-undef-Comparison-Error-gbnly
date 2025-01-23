@@ -1,0 +1,1 @@
+This repository contains a simple Perl script that highlights a common pitfall when dealing with undefined values and demonstrates the correct way to handle such situations. The 'bug.pl' file showcases the incorrect comparison, while 'bugSolution.pl' provides the corrected approach using defined().
